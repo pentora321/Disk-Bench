@@ -64,6 +64,9 @@ After the test, the script will wipe all partitions and restore the disk to its 
 
 ✨ Now, test your disk and evaluate its performance! 🚀
 
+📌 License and Usage:
+Copying, using, and updating this script is permitted with proper credit and source citation
+
 # Disk-Bench
 🚀  اسکریپت تست سرعت دیسک
 
@@ -129,3 +132,6 @@ Buffered Read Speed: 480 MB/s
 ⚠ هشدار: تمامی اطلاعات دیسک انتخاب شده حذف خواهد شد! قبل از اجرای تست، از اطلاعات خود بکاپ بگیرید.
 
 ✨ اکنون دیسک خود را تست کنید و عملکرد آن را بسنجید! 🚀
+
+📌 مجوز استفاده و انتشار:
+کپی‌برداری، استفاده و به‌روزرسانی این اسکریپت با ذکر نام و منبع مجاز می‌باشد.
